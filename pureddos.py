@@ -26,7 +26,6 @@ if sys.platform == "linux" or sys.platform == "linux2":
 elif sys.platform == "win32":
     os.system("cls")
 
-access.asciibanner()
 print ("\033[1;32m")
 url = raw_input("          URL:  ")
 print ("\033[1;m")
