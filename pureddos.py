@@ -3,7 +3,6 @@ import sys
 import urllib2
 import threading
 import random
-import access
 
 ########################################
 # Educational purpose only             #
@@ -18,7 +17,7 @@ This Tool is for Educational purpose only
 I'm not responsible for your actions 
 
 
-SUBSCRIBE: https://www.youtube.com/channel/UCKAmv8p_TRvUNrJlfiB8qBQ
+SUBSCRIBE: https://www.youtube.com/c/Scriptking SCK
 """
 
 
